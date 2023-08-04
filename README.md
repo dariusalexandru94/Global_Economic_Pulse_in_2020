@@ -3,29 +3,13 @@
 # Table of contents
 
 * Preliminary checks and data quality assessment
-<br>
-<br>
 * Data transformation
-<br>
-<br>
 * GDP
-<br>
-<br>
 * Inflation
-<br>
-<br>
 * Unemployment
-<br>
-<br>
 * Income taxes
-<br>
-<br>
 * Debt
-<br>
-<br>
 * Gold reserves
-<br>
-<br>
 * CONCLUSIONS
 
 ## Conclusions
